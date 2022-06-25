@@ -1,0 +1,47 @@
+[
+    {
+        "id": 1,
+        "title": "The Cure Black Shirt",
+        "price": "78.000",
+        "diskon": "140.000",
+        "imgUrl": "https://ih1.redbubble.net/image.2117948333.9793/ssrco,slim_fit_t_shirt,mens,101010:01c5ca27c6,front,square_product,600x600.jpg"
+    },
+    {
+        "id": 2,
+        "title": "Drum Yellow Shirt",
+        "price": "120.000",
+        "diskon": "230.000",
+        "imgUrl": "https://ih1.redbubble.net/image.275972864.8392/ssrco,classic_tee,mens,f89f2b:1617e563f0,front_alt,square_product,600x600.u1.jpg"
+    },
+    {
+        "id": 3,
+        "title": "Music Classic Black Shirt",
+        "price": "120.000",
+        "diskon": "230.000",
+
+        "imgUrl": "https://ih1.redbubble.net/image.604459680.9730/ssrco,classic_tee,womens,101010:01c5ca27c6,front_alt,square_product,600x600.u2.jpg"
+    },
+    {
+        "id": 4,
+        "title": "80s Retro Black Shirt",
+        "price": "89.000",
+        "diskon": "170.000",
+
+        "imgUrl": "https://ih1.redbubble.net/image.702648933.8549/ssrco,classic_tee,mens,101010:01c5ca27c6,front_alt,square_product,600x600.jpg"
+    },
+    {
+        "id": 5,
+        "title": "White Shirt",
+        "price": "100.000",
+        "diskon": "210.000",
+
+        "imgUrl": "https://ih1.redbubble.net/image.118174139.5595/ssrco,classic_tee,mens,fafafa:ca443f4786,front_alt,square_product,600x600.jpg"
+    },
+    {
+        "id": 6,
+        "title": "Clut Movie Club Black Shirt",
+        "price": "90.000",
+        "diskon": "170.000",
+        "imgUrl": "https://ih1.redbubble.net/image.2404093096.8794/ssrco,classic_tee,mens,101010:01c5ca27c6,front_alt,square_product,600x600.jpg"
+    }
+]

@@ -1,0 +1,45 @@
+[
+    {
+        "id": 1,
+        "title": "Elden Ring Hoodie",
+        "price": "178.000",
+        "diskon": "320.000",
+        "imgUrl": "https://ih1.redbubble.net/image.3004465815.3335/ssrco,mhoodie,mens,101010:01c5ca27c6,front,square_product,x600-bg,f8f8f8.1.jpg"
+    },
+    {
+        "id": 2,
+        "title": "Into The Spider-verse Hoodie",
+        "price": "180.000",
+        "diskon": "320.000",
+        "imgUrl": "https://ih1.redbubble.net/image.659421263.3867/ssrco,lightweight_hoodie,womens,101010:01c5ca27c6,front,square_product,x600-bg,f8f8f8.1u5.jpg"
+    },
+    {
+        "id": 3,
+        "title": "Kill Bill Hoodie",
+        "price": "190.000",
+        "diskon": "340.000",
+        "imgUrl": "https://ih1.redbubble.net/image.855246826.5772/ra,sweatshirt,x1800,101010:01c5ca27c6,front-c,281,327,600,600-bg,f8f8f8.u2.jpg"
+    },
+    {
+        "id": 4,
+        "title": "The Neighbourhood Hoodie",
+        "price": "210.000",
+        "diskon": "410.000",
+
+        "imgUrl": "https://ih1.redbubble.net/image.16424366.3606/ssrco,lightweight_hoodie,mens,101010:01c5ca27c6,front,square_product,x600-bg,f8f8f8.2u4.jpg"
+    },
+    {
+        "id": 5,
+        "title": "NF Real Music Hoodie",
+        "price": "240.000",
+        "diskon": "440.000",
+        "imgUrl": "https://ih1.redbubble.net/image.559176951.9508/ssrco,lightweight_hoodie,mens,101010:01c5ca27c6,front,square_product,x600-bg,f8f8f8.2u5.jpg"
+    },
+    {
+        "id": 6,
+        "title": "Dance With The Devil Hoodie",
+        "price": "200.000",
+        "diskon": "380.000",
+        "imgUrl": "https://ih1.redbubble.net/image.265407210.9243/ra,sweatshirt,x1800,oatmeal_heather,front-c,281,327,600,600-bg,f8f8f8.jpg"
+    }
+]
